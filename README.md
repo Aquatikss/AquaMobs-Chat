@@ -1,2 +1,3 @@
-# AquaMobs-Chat
-The AquaMobs MC Server Chat Plugin.
+Features
+A Simple chat Plugin Template!
+Comes with Vault Hooked onto it, Allows for Prefix/Suffixes in Chat!
