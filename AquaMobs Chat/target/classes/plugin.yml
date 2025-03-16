@@ -1,0 +1,8 @@
+name: AquaMobsChat
+version: '1.0'
+main: com.aquamobs.aquaMobsChat.Main
+api-version: '1.21'
+softdepend: [ Vault ]
+authors: [ Aquatikss ]
+description: My First Paper Plugin
+website: store.aquamobs.com
